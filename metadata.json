@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Agentic Insight Reader",
+  "description": "A visual document analysis tool powered by Gemini 2.5 Flash. Upload document pages as images to chat, summarize, and extract insights.",
+  "requestFramePermissions": []
+}
